@@ -1,6 +1,6 @@
 # 👋 I'm Ali Baha Yorgancioglu 
 
-### Junior Full-Stack Developer | Web Design Student
+### Aspiring Fullstack Developer | Web Design & Coding Student
 
 I am a 21-year-old developer based in Istanbul, currently pursuing a degree in **Web Design and Coding** at Atatürk University. My focus lies in bridging the gap between robust backend logic and intuitive user interfaces. I leverage modern web technologies and game engines to build high-performance digital solutions.
 
@@ -41,7 +41,7 @@ I am a 21-year-old developer based in Istanbul, currently pursuing a degree in *
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/ali-baha-yorgancioglu/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-baha-yorgancioglu/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/Bahabie)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:alibahabys@gmail.com)
 
