@@ -1,9 +1,8 @@
 # 👋 I'm Ali Baha Yorgancioglu 
 
-### Aspiring Fullstack Developer | Web Design & Coding Student
+### Software Developer
 
-I am a 21-year-old developer based in Istanbul, currently pursuing a degree in **Web Design and Coding** at Atatürk University. My focus lies in bridging the gap between robust backend logic and intuitive user interfaces. I leverage modern web technologies and game engines to build high-performance digital solutions.
-
+I am a Software Developer based in Istanbul, currently studying Web Design and Coding at Atatürk University. I am passionate about building scalable web applications and continuously advancing my skills to become a Full-Stack Developer. I strongly believe that the bridge between a great idea and an impactful product is built through continuous learning, clean code, and craftsmanship. Always eager to tackle new technical challenges and contribute to innovative projects.
 ---
 
 ### 💻 Technical Expertise
