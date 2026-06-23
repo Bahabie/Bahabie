@@ -2,7 +2,7 @@
 
 ### Software Developer
 
-I am a Software Developer based in Istanbul, currently studying Web Design and Coding (Distance Education) at Atatürk University.
+I am a Software Developer based in Istanbul, currently studying Web Design and Coding at Atatürk University.
 
 Open to new opportunities and collaborations.
 ### Technical Expertise
