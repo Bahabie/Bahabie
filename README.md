@@ -19,8 +19,7 @@ Open to new opportunities and collaborations.
 ---
 ###  Ongoing Projects
 
-* **Orion One :** A comprehensive web showcase of my design philosophy and coding standards and built to demonstrate modern web performance, Focusing on inventory systems and interactive UI/UX.
-
+* **alibahayorgancioglu.com :** My personal portfolio and project hub
 ---
 
 ### 🌐 Connect With Me
