@@ -30,7 +30,7 @@ Open to new opportunities and collaborations.
 
 ### Ongoing Projects
 
-* **spot2tube-sync** : An automated SaaS utility to seamlessly transfer and synchronize Spotify playlists directly to YouTube Music accounts. Engineered with a decoupled Next.js and FastAPI architecture, leveraging PostgreSQL for background job processing.
+* **spot2tube** : An automated SaaS utility to seamlessly transfer and synchronize Spotify playlists directly to YouTube Music accounts. Engineered with a decoupled Next.js and FastAPI architecture, leveraging PostgreSQL for background job processing.
 * **alibahayorgancioglu.com** : My personal portfolio and project hub.
 
 ---
