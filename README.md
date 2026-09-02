@@ -1,4 +1,4 @@
-👋 I'm Ali Baha Yorgancioglu
+👋 I'm Ali Baha Yorgancıoğlu
 
 ### Software Developer
 
